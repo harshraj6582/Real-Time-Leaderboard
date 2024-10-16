@@ -1,5 +1,8 @@
 ﻿# Real-Time-Leaderboard
-Sure! Here’s the complete README file for your Real-Time Leaderboard project:
+![image](https://github.com/user-attachments/assets/9d7db6b4-a0b9-41d7-bc0f-d0f550957a65)
+![image](https://github.com/user-attachments/assets/9efe3fb8-e0e7-4eae-81a7-53d88ff0a8f7)
+
+
 
 ```markdown
 # Real-Time Leaderboard
